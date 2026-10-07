@@ -83,3 +83,7 @@ List rows can be copied with Ctrl+C. Command-line options for shortcuts: `/auto`
 - Freezes that recovered without a restart and left nothing in the logs cannot be detected automatically. Use **Specify time**.
 - Per-user registry settings are available only for users who are logged on.
 - The output may contain user names, app command lines and file URLs. Handle it with care.
+
+## License
+
+[MIT](LICENSE)
